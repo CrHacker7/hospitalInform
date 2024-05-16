@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6fac820-9e68-4cb5-8c45-0159cc4e3f41" name="Changes" comment="feat: first commit SpringBoot/React with semantic versioning" />
+    <list default="true" id="b6fac820-9e68-4cb5-8c45-0159cc4e3f41" name="Changes" comment="feat: second commit with branch development added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -19,12 +26,12 @@
     &quot;assignee&quot;: &quot;CrHacker7&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CrHacker7/hospitalInform.git",
-    "accountId": "6206e3c1-e1fd-40a6-b44c-1d5c64a6528c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CrHacker7/hospitalInform.git&quot;,
+    &quot;accountId&quot;: &quot;6206e3c1-e1fd-40a6-b44c-1d5c64a6528c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -38,7 +45,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;development&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/crhackerclient/ProjectGroup/MyBackProject/hospital&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
@@ -72,8 +79,27 @@
       <option name="project" value="LOCAL" />
       <updated>1715600685687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: second commit with branch development added">
+      <option name="closed" value="true" />
+      <created>1715601118545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715601118545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -81,6 +107,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="feat: first commit SpringBoot/React with semantic versioning" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: first commit SpringBoot/React with semantic versioning" />
+    <MESSAGE value="feat: second commit with branch development added" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: second commit with branch development added" />
   </component>
 </project>
