@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HospitalApplication",
+            "request": "launch",
+            "mainClass": "com.example.HospitalApplication",
+            "projectName": "hospital"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-HospitalApplication<hospital>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.hospital.HospitalApplication",
+            "projectName": "hospital",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

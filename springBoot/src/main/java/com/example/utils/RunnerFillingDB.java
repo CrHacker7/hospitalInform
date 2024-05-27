@@ -1,9 +1,11 @@
-package com.example.hospital;
+package com.example.utils;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Component;
+
+import com.example.service.InformService;
 
 @Component
 public class RunnerFillingDB implements ApplicationRunner {

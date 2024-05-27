@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="b6fac820-9e68-4cb5-8c45-0159cc4e3f41" name="Changes" comment="feat: second commit with branch development added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springBoot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/HospitalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/Inform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/InformController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/InformRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/InformService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/RunnerFillingDB.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
