@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6fac820-9e68-4cb5-8c45-0159cc4e3f41" name="Changes" comment="feat: fixing error">
+    <list default="true" id="b6fac820-9e68-4cb5-8c45-0159cc4e3f41" name="Changes" comment="workspace xml saved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springBoot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/HospitalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/Inform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/InformController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/InformRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/InformService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springBoot/src/main/java/com/example/hospital/RunnerFillingDB.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +49,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "DevOps",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/crhackerclient/ProjectGroup/MyBackProject/hospital",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;DevOps&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/crhackerclient/ProjectGroup/MyBackProject/hospital&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -95,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715858939433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="workspace xml saved">
+      <option name="closed" value="true" />
+      <created>1716395225173</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716395225178</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +132,7 @@
     <MESSAGE value="feat: first commit SpringBoot/React with semantic versioning" />
     <MESSAGE value="feat: second commit with branch development added" />
     <MESSAGE value="feat: fixing error" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: fixing error" />
+    <MESSAGE value="workspace xml saved" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace xml saved" />
   </component>
 </project>
